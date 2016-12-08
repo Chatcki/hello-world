@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hello, there! I learn C++ and English!
